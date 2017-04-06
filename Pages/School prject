@@ -76,60 +76,6 @@
 
     <hr>
 
-    <div class="row column">
-      <h3>Our Recent Work</h3>
-    </div>
-
-    <div class="row medium-up-3 large-up-4">
-      <div class="column">
-        <img class="thumbnail" src="http://placehold.it/550x550">
-      </div>
-      <div class="column">
-        <img class="thumbnail" src="http://placehold.it/550x550">
-      </div>
-      <div class="column">
-        <img class="thumbnail" src="http://placehold.it/550x550">
-      </div>
-      <div class="column">
-        <img class="thumbnail" src="http://placehold.it/550x550">
-      </div>
-      <div class="column">
-        <img class="thumbnail" src="http://placehold.it/550x550">
-      </div>
-      <div class="column">
-        <img class="thumbnail" src="http://placehold.it/550x550">
-      </div>
-      <div class="column">
-        <img class="thumbnail" src="http://placehold.it/550x550">
-      </div>
-      <div class="column">
-        <img class="thumbnail" src="http://placehold.it/550x550">
-      </div>
-      <div class="column">
-        <img class="thumbnail" src="http://placehold.it/550x550">
-      </div>
-      <div class="column">
-        <img class="thumbnail" src="http://placehold.it/550x550">
-      </div>
-      <div class="column">
-        <img class="thumbnail" src="http://placehold.it/550x550">
-      </div>
-      <div class="column">
-        <img class="thumbnail" src="http://placehold.it/550x550">
-      </div>
-    </div>
-
-    <hr>
-
-    <div class="row column">
-      <ul class="menu">
-        <li><a href="#">Animations</a></li>
-        <li><a href="#">Games</a></li>
-        <li><a href="#">Music</a></li>
-        <li><a href="#">Studio</a></li>
-      </ul>
-    </div>
-    
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
     <script>
